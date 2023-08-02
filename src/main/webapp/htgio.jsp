@@ -160,12 +160,6 @@
   
 			
      </td>
-      <td width ="200" valign="top">
-      <form action="htnuoc" method="post">
- 		 <input  class="form-control"  name="txttk" type="text" value="" placeholder="Nhap tt"> <br>
-  		 <input class="btn-primary"  name="butt" type="submit" value="Search">
-		</form>
-     </td>
    </tr>
 </table>
   <!--Footer Links-->
